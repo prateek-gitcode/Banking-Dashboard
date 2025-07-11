@@ -34,3 +34,8 @@ Jupyter Notebook - Exploratory Data Analysis with Python
 - Saving Account Amount: An interest-bearing deposit account held at a bank.
 - Foreign Currency Amount: An amount held in an account held in a currency that is not the currency of India
 - Credit Cards Balance: Total amount of money currently owned by a cardholder to their credit card bank.
+
+# Conclusion
+- It also helps which type of banks have more number of clients as we can see private banks have more number of clients so it can helps other banks can build their strategies to increase clients.
+- It also provides insights about which nationality has highest bank loans.
+- It gives information about various types of amount involved in different types of accounts by investors.
