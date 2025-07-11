@@ -1,3 +1,7 @@
+
+
+<img width="1157" height="646" alt="Screenshot 2025-07-11 192952" src="https://github.com/user-attachments/assets/cb0d9e27-25dd-483b-b483-3f90acbc237f" />
+
 # Banking-Dashboard
 This project is an attempt to develop a basic understanding of risk analytics in banking and financial services and understand how data is used to minimise the risk of losing money while lending to customers.
 With our dashboards which are created using Power BI, it helps the company make decisions based on the applicant’s profile whether the applicant is likely to repay the loan, thereafter approving the loan otherwise not.
